@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import StyleContext from "./StyleContext";
+import StyleContext from "./StylesContext";
 
 
 export default function CollectorButton() {
